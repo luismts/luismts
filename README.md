@@ -137,12 +137,12 @@ And much more... See it [here](https://github.com/luismts?tab=repositories).
 ---
 
 <div align="center">
-
+<!--
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=luismts.luismts)
 [![Linting](https://github.com/luismts/luismts/actions/workflows/lint.yaml/badge.svg)](https://github.com/luismts/luismts/actions/workflows/lint.yaml)
 [![Spellcheck](https://github.com/luismts/luismts/actions/workflows/spellcheck.yaml/badge.svg)](https://github.com/luismts/luismts/actions/workflows/spellcheck.yaml)
 [![GitHub Activity](https://github.com/luismts/luismts/actions/workflows/update-activity.yaml/badge.svg)](https://github.com/luismts/luismts/actions/workflows/update-activity.yaml)
-
+-->
 <br>
 
 <a href = "https://github.com/luismts/luismts/graphs/contributors">
