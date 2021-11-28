@@ -2,7 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-luismatosluna-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luismatosluna/)](https://www.linkedin.com/in/luismatosluna/)
 [![Twitter Badge](https://img.shields.io/badge/-@luismatosluna-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luismatosluna)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluismatosluna&screen_name=luismatosluna)
+![YouTube](https://img.shields.io/badge/luismatosluna-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/-luismatosluna-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luismatosluna@gmail.com)](mailto:luismatosluna@gmail.com)
+[![RSS Badge](https://img.shields.io/badge/RSS-FFA500?style=flat&logo=rss&logoColor=white)](https://luismts.com/rss)
 
 ```c#
 namespace SoftwareEngineer;
@@ -53,40 +55,54 @@ And much more... See it [here](https://github.com/luismts?tab=repositories).
 ![](https://img.shields.io/badge/-MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
 <br>
 **Programming Languages**<br>
+![](https://img.shields.io/badge/-Csharp-informational?style=flat&logo=csharp&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/-GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=43853d)
+![](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=474A8A)
+![](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=000000)
 <br>
 **Frameworks and Libraries**<br>
-![](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=EA2845)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
-![](https://img.shields.io/badge/-Odoo-informational?style=flat&logo=odoo&logoColor=white&color=714B67)
+![](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white)
+![](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
 ![](https://img.shields.io/badge/-Material-informational?style=flat&logo=material-design&logoColor=white&color=757575)
-![](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 <br>
 **Hosting**<br>
+![](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/-OVH-informational?style=flat&logo=ovh&logoColor=white&color=123F6D)
-![](https://img.shields.io/badge/-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
+![](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
+![](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![](https://img.shields.io/badge/-Github_Pages-informational?style=flat&logo=github&logoColor=white&color=222222)
-![](https://img.shields.io/badge/-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
+<br>
+**Databases**<br>
+![](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
+![](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+<br>
+**Store**<br>
+![](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)
+![](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)
 <br>
 **DevOps Tools**<br>
-![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&color=D24939)
+![](https://img.shields.io/badge/-Azure_DevOps-informational?style=flat&logo=azure&color=2496ED)
+![](https://img.shields.io/badge/-App_Center-informational?style=flat&logo=azure&color=cb2e63)
 ![](https://img.shields.io/badge/-Gitlab-informational?style=flat&logo=gitlab&color=FCA121)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
-![](https://img.shields.io/badge/-Travis_CI-informational?style=flat&logo=travis-ci&logoColor=white&color=3EAAAF)
-![](https://img.shields.io/badge/-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
+<br>
+**Version Control**<br>
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white)
+![](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 <br>
 **Software and Tools**<br>
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flate&logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
-![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -111,18 +127,11 @@ And much more... See it [here](https://github.com/luismts?tab=repositories).
 <div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=luismts&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="luismts's Activity Graph" /></a>
 </div>
+    
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/luismts/luismts/pull/2) in [luismts/luismts](https://github.com/luismts/luismts)
-2. 💪 Opened PR [#2](https://github.com/luismts/luismts/pull/2) in [luismts/luismts](https://github.com/luismts/luismts)
-3. 🎉 Merged PR [#1](https://github.com/luismts/luismts/pull/1) in [luismts/luismts](https://github.com/luismts/luismts)
-4. 💪 Opened PR [#1](https://github.com/luismts/luismts/pull/1) in [luismts/luismts](https://github.com/luismts/luismts)
-5. 💪 Opened PR [#17](https://github.com/opticrd/facial-auth-api/pull/17) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-6. 🎉 Merged PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-7. 💪 Opened PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-8. 💪 Opened PR [#14](https://github.com/opticrd/facial-auth-api/pull/14) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-9. 🎉 Merged PR [#13](https://github.com/opticrd/facial-auth-api/pull/13) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-10. 💪 Opened PR [#13](https://github.com/opticrd/facial-auth-api/pull/13) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+
 <!--END_SECTION:activity-->
+    
 </details>
 
 ---
