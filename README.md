@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@luismatosluna-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luismatosluna)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fluismatosluna&screen_name=luismatosluna)
 ![YouTube](https://img.shields.io/badge/luismatosluna-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/-luismatosluna-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luismatosluna@gmail.com)](mailto:luismatosluna@gmail.com)
-[![RSS Badge](https://img.shields.io/badge/RSS-FFA500?style=flat&logo=rss&logoColor=white)](https://luismts.com/rss)
+[![RSS Badge](https://img.shields.io/badge/RSS-FFA500?style=flat&logo=rss&logoColor=white)](https://luismts.com/feed/)
 
 ```c#
 namespace SoftwareEngineer;
